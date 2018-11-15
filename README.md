@@ -2,7 +2,7 @@
 
 
 ## Synopsis
-OnTheHouse is a Chrome extension that displays a reminder before user's free-trial period expires. Final version of the product will provide option to unsubscribe from the online service with a single click. OnTheHouse is created with goals of protecting consumer rights.
+OnTheHouse is a Chrome extension that displays a reminder before user's free-trial period expires. Final version of the product will provide option to unsubscribe from the online service with a single click. OnTheHouse is created to protect consumer rights.
 
 
 ## Motivation
