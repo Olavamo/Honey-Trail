@@ -1,6 +1,6 @@
 # Development Plan
 
-# Version 1.0
+### Version 1.0
 
 ## Site Detection
 
@@ -44,7 +44,7 @@ Program will also keep track of pages where user immediately clicked off-screen 
 
 ## Displaying Reminder
 
-# Version 2.0
+### Version 2.0
 
 ## Recommended Service
 
