@@ -18,6 +18,8 @@ Free trial is a customer acquisition strategy adapted by many online service pro
 
 Users will not pay for the service.
 
-# Cheers 🍹
 
-Send me a message if you'd like to contribute
+
+#
+
+Send me a message if you'd like to contribute. Cheers 🍹
