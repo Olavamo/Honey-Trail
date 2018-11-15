@@ -1,4 +1,4 @@
-# OnTheHouse 🍹
+# OnTheHouse
 
 
 ## Synopsis
@@ -16,9 +16,8 @@ Free trial is a customer acquisition strategy adapted by many online service pro
 
 ## Sustainable Business Model
 
+Users will not pay for the service.
 
-
-
-## Contributors
+# Cheers 🍹
 
 Send me a message if you'd like to contribute
