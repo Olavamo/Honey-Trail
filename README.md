@@ -1,4 +1,4 @@
-# OnTheHouse
+# OnTheHouse 🍹
 
 
 ## Synopsis
