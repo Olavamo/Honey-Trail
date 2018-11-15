@@ -31,12 +31,17 @@ A: Free Trial is a marketing strategy with a goal of expanding their potential u
 OnTheHouse 1.0
 
 Service: Reminder to unsubscribe with a link
+
 Dev. Requirement: Free-Trial web page detection (machine learning && manual input), Data colletion for next release
+  
+  
   
 OnTheHouse 2.0
 
   Service: Recommend services using user data, Temporary offer alert
+  
   Dev. Requirement: Interest based recommendations
+  
   *<i>Ability to make profit with increased user base</i>
   
 
