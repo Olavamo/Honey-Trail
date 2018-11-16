@@ -12,7 +12,7 @@ Free trial is a customer acquisition strategy adapted by many online service pro
 ## Service Provided
 1. Reminder to unsubscribe from unwanted service
 2. (Optional) Automatic unsubscribtion setting // legal risk
-3. Recommend services that many users choose to continue after free trial
+3. Recommend services that many users liked and chose to continue subscription
 4. Offer alert on temporary free trial release
 
 
