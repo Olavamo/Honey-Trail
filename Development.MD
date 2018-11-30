@@ -12,7 +12,7 @@ List can be updated with <b>User Feedback</b> after review
 
 ### Step 2
 
-Utilize <b>machine learning</b> to analyze URLs (<i>https://*/<b>study_this</b></i>) with free-trial offer
+Analyze URLs (<i>https://*/<b>study_this</b></i>) with free-trial offer
 
 ### Step 3
 
