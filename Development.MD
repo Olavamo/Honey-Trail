@@ -1,5 +1,10 @@
 # Development Plan
 
+### Pre-development
+Study various subscription-targeted services ex)email scraping, etc.,
+Q) Do they offer de-subscription button?
+
+
 ### Version 1.0
 
 ## Site Detection
