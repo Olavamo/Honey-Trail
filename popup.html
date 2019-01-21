@@ -1,0 +1,42 @@
+<!-- Feb 6 2018 iTry Project by Olavamo -->
+<html style="width: 330px; height: 250px; background-color: rgb(245, 248, 248);">
+  <head>
+    <title>Trial Page</title>
+    <style>
+      body {
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      #LogoImage {
+        width: 80px;
+      }
+
+      input {
+        margin: 5px;
+        outline: none;
+      }
+
+      p {
+        font-size: 15px;
+        font-family: georgia;
+      }
+      
+      
+    </style>
+
+  </head>
+  <body>
+      <img src='image/icon.png' id='LogoImage'>
+      <p><b>It's on the House!</b></p>
+      <form action="/action_page.php">
+          Set a reminder for %s?<br><br>
+          We will remind you before you are charged.<br><br>
+          Remind me in <input type="number" name="days_prior" min="1" max="29" value="25"> days.
+        <input type="submit" value="Yes">
+        <input type="submit" value="No">
+      </form>
+
+   <script src="popup.js"></script>
+  </body>
+</html>

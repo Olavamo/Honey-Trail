@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Olavamo",
+    "version": "0.1",
+    "description": "Gives users option to opt out of free-trial.",
+    "icons": {"128": "image/icon.png"},
+    "browser_action": {
+        "default_title": "Trial-page detection",
+        "default_popup": "popup.html"
+      },
+    "content_scripts": [
+    {
+        "matches": [
+        "https://*/*premium*", "https://*/*free-trial*", "https://www.spotify.com/us/premium/"
+        ],
+        "js": ["content.js"]
+    }
+    ]
+}

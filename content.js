@@ -1,0 +1,1 @@
+alert("You're on the free-trial page!")
