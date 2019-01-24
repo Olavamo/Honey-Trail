@@ -11,7 +11,7 @@
     "content_scripts": [
     {
         "matches": [
-        "https://*/*premium*", "https://*/*free-trial*", "https://www.spotify.com/us/premium/"
+        "https://*/*premium*", "https://www.netflix.com/", "https://www.spotify.com/us/premium/"
         ],
         "js": ["content.js"]
     }
